@@ -205,9 +205,9 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.6;
     color: #333;
 }
-Center{
+.Center{
 
-    margin-top: 10;
+    margin-top: 10px;
     
     font-family: 'Barlow Condensed', sans-serif;
 
@@ -320,9 +320,8 @@ display: flex;
     width: 100%;
     height: 100vh;
 align-content: center;
-    background: url("/home/user/Desktop/Visitka/images/background.jpg") center no-repeat;
-    -webkit-background-size: cover;
-    background-size: cover;
+    
+   
     
     
 }
